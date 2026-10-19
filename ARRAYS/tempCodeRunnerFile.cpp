@@ -1,0 +1,1 @@
+int result = appears_once(arr);
