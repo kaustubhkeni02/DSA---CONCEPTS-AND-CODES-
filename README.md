@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
-## 🎯 About
+## 🎯 About <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 
 This repository documents my **DSA learning journey**. Each topic includes:
 
@@ -29,6 +29,22 @@ This repository documents my **DSA learning journey**. Each topic includes:
 - 🏋️ **Practice problems**: classic and interview-style questions
 
 > Language used: **<!-- C++ / Java / Python / JavaScript -->**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+
+## 🎬 Algorithms in Motion
+
+<p align="center">
+  <img src="assets/sorting.svg" alt="Bubble sort animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/linkedlist.svg" alt="Linked list traversal animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/binarysearch.svg" alt="Binary search animation" width="100%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
@@ -103,6 +119,19 @@ python filename.py
 4. 🔄 Revisit topics regularly for revision before interviews.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaustubhkeni02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhkeni02&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubhkeni02&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</p>
 
 ## 🤝 Contributing
 
