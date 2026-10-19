@@ -15,6 +15,7 @@
 ## About
 
 My daily DSA practice. Concepts and code, organized by topic, for learning and interview preparation.
+For tracking my daily DSA progress.
 
 ## Topics
 
